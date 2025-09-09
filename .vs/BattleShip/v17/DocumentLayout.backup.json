@@ -10,16 +10,16 @@
       "RelativeMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|solutionrelative:battleship\\gemileriduzenle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\battleship\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|solutionrelative:battleship\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\battleship\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|solutionrelative:battleship\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\battleship\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|solutionrelative:battleship\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\battleship\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|solutionrelative:battleship\\sonuclar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B0333F59-DB23-4404-AB78-E6A149DEA69E}|BattleShip\\BattleShip.csproj|E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\battleship\\oyunekrani.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
@@ -61,25 +61,25 @@
               "RelativeToolTip": "..\\..\\BattleShip\\BattleShip\\bin\\Debug\\gameData.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-06-02T10:01:14.018Z",
+              "WhenOpened": "2025-06-02T12:55:15.216Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "Sonuclar.cs",
               "DocumentMoniker": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\Sonuclar.cs",
               "RelativeDocumentMoniker": "BattleShip\\Sonuclar.cs",
               "ToolTip": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\Sonuclar.cs",
               "RelativeToolTip": "BattleShip\\Sonuclar.cs",
-              "ViewState": "AgIAACwAAAAAAAAAAAAswFAAAAAEAAAAAAAAAA==",
+              "ViewState": "AgIAABkAAAAAAAAAAAAgwEwAAAArAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T15:31:16.836Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 3,
               "Title": "Sonuclar.cs [Design]",
               "DocumentMoniker": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\Sonuclar.cs",
               "RelativeDocumentMoniker": "BattleShip\\Sonuclar.cs",
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "OyunEkrani.cs",
               "DocumentMoniker": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\OyunEkrani.cs",
               "RelativeDocumentMoniker": "BattleShip\\OyunEkrani.cs",
@@ -99,7 +99,8 @@
               "RelativeToolTip": "BattleShip\\OyunEkrani.cs",
               "ViewState": "AgIAAJQAAAAAAAAAAAAswH8AAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T14:59:35.528Z"
+              "WhenOpened": "2025-05-25T14:59:35.528Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -109,7 +110,7 @@
               "RelativeDocumentMoniker": "BattleShip\\GemileriDuzenle.cs",
               "ToolTip": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\GemileriDuzenle.cs",
               "RelativeToolTip": "BattleShip\\GemileriDuzenle.cs",
-              "ViewState": "AgIAAIoAAAAAAAAAAADgv5wAAABXAAAAAAAAAA==",
+              "ViewState": "AgIAAEoAAAAAAAAAAADwvzoAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-23T18:29:43.104Z",
               "EditorCaption": ""
@@ -120,10 +121,11 @@
               "Title": "OyunEkrani.cs [Design]",
               "DocumentMoniker": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\OyunEkrani.cs",
               "RelativeDocumentMoniker": "BattleShip\\OyunEkrani.cs",
-              "ToolTip": "E:\\NTP\\Oyun\\BattleShip\\BattleShip\\OyunEkrani.cs [Design]",
-              "RelativeToolTip": "..\\..\\BattleShip\\BattleShip\\OyunEkrani.cs [Design]",
+              "ToolTip": "E:\\NTP\\Oyun\\BATTLESH\u0130P\\BattleShip\\BattleShip\\OyunEkrani.cs [Design]",
+              "RelativeToolTip": "BattleShip\\OyunEkrani.cs [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-23T18:20:03.166Z"
+              "WhenOpened": "2025-05-23T18:20:03.166Z",
+              "EditorCaption": " [Design]"
             },
             {
               "$type": "Document",
